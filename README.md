@@ -2,7 +2,8 @@
 
 The Banking Information System is a Core Java application developed to simulate basic banking operations. The system allows users to register accounts, manage account details, perform transactions, transfer funds, and view account statements through a simple and user-friendly interface.
 
-🚀 Features
+🚀 Features:
+
 User Registration
 Account Management
 Deposit Money
