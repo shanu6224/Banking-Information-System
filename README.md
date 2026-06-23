@@ -13,6 +13,7 @@ Password Protection
 Transaction History
 Error Handling
 Temporary Data Persistence During Session
+
 🛠 Technologies Used
 Java
 NetBeans IDE
@@ -25,11 +26,13 @@ BankingInformationSystem
 ├── Account.java
 ├── Transaction.java
 └── README.md
+
 ▶️ How to Run
 Open the project in NetBeans.
 Build the project.
 Run the application.
 Follow the menu options to perform banking operations.
+
 📖 Functionalities
 User Registration
 Create a new bank account
@@ -48,6 +51,7 @@ Authentication before sensitive operations
 Account Statement
 View transaction history
 Display current balance
+
 🎯 Learning Outcomes
 Java Fundamentals
 Classes and Objects
@@ -57,6 +61,7 @@ Exception Handling
 Method Implementation
 Banking System Workflow
 Object-Oriented Programming Concepts
+
 👩‍💻 Author
 
 G. Shakthipriya
