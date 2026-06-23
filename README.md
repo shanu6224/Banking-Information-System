@@ -15,12 +15,15 @@ Transaction History
 Error Handling
 Temporary Data Persistence During Session
 
-🛠 Technologies Used
+🛠 Technologies Used:
+
 Java
 NetBeans IDE
 Object-Oriented Programming (OOP)
 ArrayList Collection Framework
-📂 Project Structure
+
+📂 Project Structure:
+
 BankingInformationSystem
 │
 ├── BankingInformationSystem.java
@@ -28,13 +31,15 @@ BankingInformationSystem
 ├── Transaction.java
 └── README.md
 
-▶️ How to Run
+▶️ How to Run:
+
 Open the project in NetBeans.
 Build the project.
 Run the application.
 Follow the menu options to perform banking operations.
 
-📖 Functionalities
+📖 Functionalities:
+
 User Registration
 Create a new bank account
 Generate unique account numbers
@@ -53,7 +58,8 @@ Account Statement
 View transaction history
 Display current balance
 
-🎯 Learning Outcomes
+🎯 Learning Outcomes:
+
 Java Fundamentals
 Classes and Objects
 Constructors
